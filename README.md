@@ -38,4 +38,9 @@
 
 
 ============================= TEAM MEMBERS ROLE =============================
-1. Shahzaim (CT-267) -----------> 
+
+1. Shahzaim (CT-267) -----------> Create the respository and push the code to the github.
+2. Muhammad Furqan Ali (CT-295) -----------> Write the Code.
+3. Syed Ibrahim Aziz (CT-289) -----------> Write README.md File and Commit the Code.
+
+============================= XXXXXXXXXXXXXXXXXXXXXXXXXXXX =============================
