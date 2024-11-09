@@ -1,4 +1,4 @@
-============================= STEPS TO CREATE A CALCULATOR =============================
+============= STEPS TO CREATE A CALCULATOR =============
 1. Set Up:
     a. Include stdio.h and define int main().
 
@@ -16,10 +16,10 @@
 4. Compile & Run:
     Save, compile, and test each operation for accuracy.
 
-============================= XXXXXXXXXXXXXXXXXXXXXXXXXXXX =============================
+============= XXXXXXXXXXXXXXXXXXXXXXXXXXXX =============
 
 
-============================= GIT COMMANDS =============================
+============= GIT COMMANDS =============
 
 1. git init -----------> Initialize a new Git repository
 2. git add -----------> Add files to the staging area
@@ -34,13 +34,13 @@
 11. git fetch origin -----------> Fetch changes from a remote without merging
 12. git log -----------> Show the commit history
 
-============================= XXXXXXXXXXXXXXXXXXXXXXXXXXXX =============================
+============= XXXXXXXXXXXXXXXXXXXXXXXXXXXX =============
 
 
-============================= TEAM MEMBERS ROLE =============================
+============= TEAM MEMBERS ROLE =============
 
 1. Shahzaim (CT-267) -----------> Create the respository and push the code to the github.
 2. Muhammad Furqan Ali (CT-295) -----------> Write the Code.
 3. Syed Ibrahim Aziz (CT-289) -----------> Write README.md File and Commit the Code.
 
-============================= XXXXXXXXXXXXXXXXXXXXXXXXXXXX =============================
+============= XXXXXXXXXXXXXXXXXXXXXXXXXXXX =============
